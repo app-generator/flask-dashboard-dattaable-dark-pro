@@ -54,4 +54,4 @@
 > Thank you for using this product!
 
 ---
-[Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
